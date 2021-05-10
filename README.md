@@ -28,18 +28,17 @@ b3cbbb4
 *The followings are not needed more: QJM, Journal Nodes (2k+1), Zookeeper, Standby Namenode, Observer Namenode, etc.
 
 
-
-## Step 3. Deploy the Hadoop
+## Step 3. Deploy the Hadoop (one-touch installation without human-intervention)
 ```bash
 
 ```
 
-## Step 4. Launch the Hadoop
+## Step 4. Launch the Hadoop (one-touch launching using only-one script without complex scripts)
 ```bash
 
 ```
 
-## Step 5. Upload the files 
+## Step 5. Upload the files (via HDFS API like Hive/Presto does)
 ```bash
 Using HDFS API is recommended. WebGUI or CLI can be also used.
 ```
