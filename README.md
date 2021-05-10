@@ -14,11 +14,20 @@ git checkout rel/release-3.2.1
 b3cbbb4
 ```
 
-## Step 2. Apply the Patch
+## Step 2. Apply the Patch and Re-build it
 *Number of files to be modified: 30, Number of lines of Java code to be added: 7,000
 ```bash
 
 ```
+
+## Step 3. Prepare the Node (minimal option)
+```bash
+2 Active Namenodes
+1 Datanode
+```
+*The followings are not needed more: QJM, Journal Nodes (2k+1), Zookeeper, Standby Namenode, Observer Namenode, etc.
+
+
 
 ## Step 3. Deploy the Hadoop
 ```bash
@@ -34,6 +43,12 @@ b3cbbb4
 ```bash
 Using HDFS API is recommended. WebGUI or CLI can be also used.
 ```
+
+## Step 6. Check the files replicated over all Namenodes
+```bash
+
+```
+
 
 ## Publications
 2021 IEEE International IOT, Electronics and Mechatronics Conference
