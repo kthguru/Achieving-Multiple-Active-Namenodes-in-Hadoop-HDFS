@@ -22,3 +22,5 @@ b3cbbb4
 
 ## Publications
 2021 IEEE International IOT, Electronics and Mechatronics Conference
+
+`https://ieeexplore.ieee.org/Xplore/home.jsp`
