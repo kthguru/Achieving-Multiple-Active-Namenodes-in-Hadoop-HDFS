@@ -1,5 +1,5 @@
 # Acheving Multiple Active Namenodes in Hadoop HDFS
-Acheving-Multiple-Active-Namenodes-in-Hadoop-HDFS
+Acheving Multiple Active Namenodes in Hadoop HDFS
 
 ## Step 1. Download Hadoop Source Code
 `git clone https://github.com/apache/hadoop`
@@ -22,5 +22,6 @@ b3cbbb4
 
 ## Publications
 2021 IEEE International IOT, Electronics and Mechatronics Conference
-
-`https://ieeexplore.ieee.org/Xplore/home.jsp`
+```
+https://ieeexplore.ieee.org/Xplore/home.jsp
+```
