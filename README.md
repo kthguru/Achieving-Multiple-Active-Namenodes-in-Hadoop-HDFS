@@ -1,4 +1,4 @@
-# Acheving Multiple Active Namenodes in Hadoop HDFS
+# Achieving Multiple Active Namenodes in Hadoop HDFS
 Acheving Multiple Active Namenodes in Hadoop HDFS
 
 ## Step 1. Download the Apache Hadoop Source Code
